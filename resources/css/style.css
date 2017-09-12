@@ -7,13 +7,11 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 h3 {
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 
 a {
@@ -21,20 +19,16 @@ a {
   font-size: 16px;
 }
 
-img {
-  text-align: center;
-}
-
-div.centered {
+h1, h3, img, div.centered {
   text-align: center;
 }
 
 div#excursion-video {
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 div#phone-image {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 div#copyright {
